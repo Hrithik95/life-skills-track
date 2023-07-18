@@ -1,5 +1,5 @@
 # Prevention of Sexual Harassment
-## What kinds of behaviour cause sexual harassment?
+## Q.1 What kinds of behaviour cause sexual harassment?
 
   The kinds of behavior that can cause sexual harassment include:
 
@@ -21,7 +21,7 @@
 
 - **Cybersexual harassment:** Engaging in sexually explicit or harassing behavior online, including through social media platforms, email, instant messaging, or other digital channels.
 
-## What would you do in case you face or witness any incident or repeated incidents of such behaviour?
+## Q.2 What would you do in case you face or witness any incident or repeated incidents of such behaviour?
   If you happen to be facing or witnessing any incident or repeated incidents of such behavior, it is essential to take appropriate action. Here are steps you can consider:
 
 1. **Ensure your safety:** Prioritize your safety and well-being. If you feel threatened or in immediate danger, remove yourself from the situation and seek a safe environment.
