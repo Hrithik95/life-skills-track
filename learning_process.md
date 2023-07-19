@@ -6,7 +6,7 @@
 The Feynman Technique is a learning technique named after Nobel Prize-winning physicist Richard Feynman. It is a four-step process for understanding any topic:
 
 1. **Choose a concept to learn.**
-2. **Teach it to yourself or someone else.** This can be done by writing everything you know about a topic out as if you were explaining it to yourself. Alternately, you can actually teach it to someone else.
+2. **Teach it to yourself or someone else.** This can be done by writing everything you know about a topic out as if you were explaining it to yourself. Alternatively, you can actually teach it to someone else.
 3. **Return to the source material if you get stuck.** Go back to whatever you're learning from – a book, lecture notes, podcast – and fill the gaps in your knowledge.
 4. **Simplify your explanations and create analogies.** Streamline your notes and explanation, further clarifying the topic until it seems obvious.
 
@@ -22,7 +22,7 @@ The Feynman Technique is a learning technique named after Nobel Prize-winning ph
 ## Question 3. Paraphrase the video in detail in your own words.
 In this video, Barbara Oakley discusses the importance of learning how to learn. She argues that learning is a skill that can be improved with practice, just like any other skill. She provides a number of strategies for learning more effectively, including:
 * **Practice the Pomerado technique:** This means you should fully focus for 25mins on whatever work you are doing and take a rest of 5mins.
-* **Active learning:** This means engaging with the material in a way that forces you to think about it. For example, you could try explaining the material to someone else, or writing a summary of it.
+* **Active learning:** This means engaging with the material in a way that forces you to think about it. For example, you could try explaining the material to someone else or writing a summary of it.
 * **Creating mental models:** This means developing an understanding of how the material fits together. You can do this by drawing diagrams, creating mind maps, or simply thinking about how the different concepts relate to each other.
 * **Practicing retrieval:** This means testing yourself on the material. This can help you to solidify your understanding and identify any gaps in your knowledge.
 * **Taking breaks:** This may seem counterintuitive, but taking breaks can actually help you to learn more effectively. When you take a break, your brain has a chance to consolidate the information you have just learned.
